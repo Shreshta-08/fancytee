@@ -6,6 +6,7 @@ FancyTee is a Node.js command based on the Linux tee command. It takes input, di
 I asked AI to help me understand tee, write my Node.js command, and find possible errors and edge cases.
 AI helped me find a problem with no input, but I tested the code myself and fixed the issue.
 
+#Code
 const fs = require('fs');
 const path = require('path');
 
